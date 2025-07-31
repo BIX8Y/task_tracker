@@ -1,5 +1,11 @@
 # task_tracker
 
+ACLC San Pablo City
+
+Veneracion, Kurt Benedict Pangan  23000839710
+
+Guevarra Ma. Paula Aguila   23000257110
+
 🛑How to run (XAMPP)🛑
 
 Create the folder: Put everything under C:\xampp\htdocs\task_tracker.

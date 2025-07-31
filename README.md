@@ -1,10 +1,12 @@
 # task_tracker
 
-ACLC San Pablo City
+ACLC San Pablo City / AMACC Angeles City
 
 Veneracion, Kurt Benedict Pangan  23000839710
 
 Guevarra Ma. Paula Aguila   23000257110
+
+Kristine Garcia 22015648810
 
 🛑How to run (XAMPP)🛑
 
